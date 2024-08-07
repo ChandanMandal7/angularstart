@@ -7,8 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title :string="";
- 
+  isVisible=true;
+
+
+  // ChangeVisibility(){
+  //   this.isVisible=!this.isVisible;
+  // }
+
+  
   ngOnInit() {
-    this.title="datajiiii";
+    this.title="CHANDAN";
   }
 }

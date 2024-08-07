@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ICustomer } from '../shared/interfaces';
 
 @Component({
   selector: 'app-customers',
@@ -8,13 +9,12 @@ import { Component, OnInit } from '@angular/core';
 
 export class CustomersComponent implements OnInit {
 
-  CustomerTitle: string = "";
-  people: any[] = [];
+  people: ICustomer[] = [];
 
   constructor() { }
 
   ngOnInit() {
-    this.CustomerTitle = "rajan ka customer";
+  
     this.people = [
       { id: 1, name: 'john Doe', city: 'Phoenix', orderTotal: 9.99, customerSince: new Date(2014, 7, 10) },
       { id: 2, name: 'Jane Doe', city: 'Chandler', orderTotal: 19.99, customerSince: new Date(2017, 2, 22) },
