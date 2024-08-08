@@ -2,7 +2,9 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  //your ciomponent goes here
+  template: '<router-outlet></router-outlet>'
+  // ./app.component.html
   // styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
@@ -14,7 +16,7 @@ export class AppComponent implements OnInit {
   //   this.isVisible=!this.isVisible;
   // }
 
-  
+
   ngOnInit() {
     this.title="CHANDAN";
   }

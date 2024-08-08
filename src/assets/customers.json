@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Ted James",
+        "city": "Phoenix",
+        "orderTotal": 40.99
+    },
+    {
+        "id": 2,
+        "name": "Michelle Thompson",
+        "city": "Los Angeles",
+        "orderTotal": 89.99
+    },
+    {
+        "id": 3,
+        "name": "James Thomas",
+        "city": "Las Vegas",
+        "orderTotal": 29.99
+    },
+    {
+        "id": 4,
+        "name": "Tina Adams",
+        "city": "Seattle",
+        "orderTotal": 15.99
+    },
+    {
+        "id": 5,
+        "name": "Emily Clark",
+        "city": "San Francisco",
+        "orderTotal": 74.50
+    },
+    {
+        "id": 6,
+        "name": "Michael Lee",
+        "city": "Chicago",
+        "orderTotal": 56.75
+    },
+    {
+        "id": 7,
+        "name": "Sarah Wilson",
+        "city": "New York",
+        "orderTotal": 99.99
+    },
+    {
+        "id": 8,
+        "name": "David Martinez",
+        "city": "Austin",
+        "orderTotal": 22.45
+    },
+    {
+        "id": 9,
+        "name": "Jessica Garcia",
+        "city": "Denver",
+        "orderTotal": 39.99
+    },
+    {
+        "id": 10,
+        "name": "Robert Brown",
+        "city": "Miami",
+        "orderTotal": 82.10
+    },
+    {
+        "id": 11,
+        "name": "Laura Davis",
+        "city": "Boston",
+        "orderTotal": 68.30
+    },
+    {
+        "id": 12,
+        "name": "Kevin Johnson",
+        "city": "Dallas",
+        "orderTotal": 55.25
+    },
+    {
+        "id": 13,
+        "name": "Anna Martinez",
+        "city": "San Diego",
+        "orderTotal": 49.95
+    },
+    {
+        "id": 14,
+        "name": "William Anderson",
+        "city": "Philadelphia",
+        "orderTotal": 72.40
+    },
+    {
+        "id": 15,
+        "name": "Olivia Wilson",
+        "city": "Houston",
+        "orderTotal": 85.70
+    },
+    {
+        "id": 16,
+        "name": "Ethan Brown",
+        "city": "Atlanta",
+        "orderTotal": 32.60
+    },
+    {
+        "id": 17,
+        "name": "Ava Taylor",
+        "city": "Charlotte",
+        "orderTotal": 90.00
+    },
+    {
+        "id": 18,
+        "name": "James White",
+        "city": "Seattle",
+        "orderTotal": 25.30
+    },
+    {
+        "id": 19,
+        "name": "Sophia Harris",
+        "city": "San Jose",
+        "orderTotal": 41.80
+    },
+    {
+        "id": 20,
+        "name": "Mason Robinson",
+        "city": "Indianapolis",
+        "orderTotal": 37.55
+    },
+    {
+        "id": 21,
+        "name": "Isabella Thompson",
+        "city": "San Antonio",
+        "orderTotal": 53.90
+    },
+    {
+        "id": 22,
+        "name": "Lucas Lee",
+        "city": "Columbus",
+        "orderTotal": 27.15
+    },
+    {
+        "id": 23,
+        "name": "Mia Garcia",
+        "city": "Fort Worth",
+        "orderTotal": 77.25
+    },
+    {
+        "id": 24,
+        "name": "Logan Davis",
+        "city": "Cleveland",
+        "orderTotal": 62.40
+    },
+    {
+        "id": 25,
+        "name": "Charlotte Smith",
+        "city": "Cincinnati",
+        "orderTotal": 48.00
+    },
+    {
+        "id": 26,
+        "name": "Alexander Williams",
+        "city": "Kansas City",
+        "orderTotal": 91.10
+    },
+    {
+        "id": 27,
+        "name": "Amelia Brown",
+        "city": "Minneapolis",
+        "orderTotal": 30.50
+    },
+    {
+        "id": 28,
+        "name": "Benjamin Martinez",
+        "city": "Tulsa",
+        "orderTotal": 65.75
+    },
+    {
+        "id": 29,
+        "name": "Harper Wilson",
+        "city": "Wichita",
+        "orderTotal": 83.90
+    },
+    {
+        "id": 30,
+        "name": "Henry White",
+        "city": "Arlington",
+        "orderTotal": 20.45
+    }
+]
